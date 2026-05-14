@@ -25,5 +25,5 @@ This project is a comprehensive Digital Signal Processing (DSP) application feat
 * `DSP Project.m`: MATLAB scripts containing custom DSP functions (e.g., custom convolution `myConv`).
 * `/Screenshots`: Contains images of the running application interface.
 
-## 👥 Academic Context
+## Academic Context
 This project was developed as part of the Digital Signal Processing (DSP) coursework at the Faculty of Computers and Artificial Intelligence, Fayoum University, demonstrating practical implementation of signal manipulation theories.
